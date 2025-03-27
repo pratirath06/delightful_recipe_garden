@@ -76,7 +76,7 @@ export const recipes: Recipe[] = [
     title: "Classic Beef Bourguignon",
     slug: "classic-beef-bourguignon",
     description: "A traditional French stew made with tender beef, red wine, mushrooms, and aromatic vegetables. Perfect for a cozy dinner.",
-    image: "https://images.unsplash.com/photo-1608877907149-a5c32d147d30?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2000&q=80",
+    image: "https://unsplash.com/photos/tomahawk-on-a-plate-with-garnish-food-photography-recipe-idea-5JvDsiODsSw",
     cookTime: 180,
     prepTime: 30,
     totalTime: 210,
