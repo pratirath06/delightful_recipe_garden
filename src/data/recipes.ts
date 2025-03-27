@@ -134,7 +134,7 @@ export const recipes: Recipe[] = [
     title: "Lemon Blueberry Pancakes",
     slug: "lemon-blueberry-pancakes",
     description: "Fluffy pancakes studded with fresh blueberries and brightened with lemon zest. A perfect weekend breakfast treat.",
-    image: "https://images.unsplash.com/photo-1589019643679-9de69d57e9eb?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2000&q=80",
+    image: "https://images.unsplash.com/photo-1450152021501-598b36b17449?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     cookTime: 15,
     prepTime: 10,
     totalTime: 25,
