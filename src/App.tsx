@@ -11,6 +11,8 @@ import Navbar from "./components/Navbar";
 import Footer from "./components/Footer";
 import { ThemeProvider } from "./lib/ThemeProvider";
 
+
+
 const queryClient = new QueryClient();
 
 const App = () => (
